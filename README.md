@@ -44,7 +44,7 @@ En windows se puede hacer el clone por HTTPS.
 
 `npx expo start`
 
-Escanear de la forma previamente explicada con tu celular el QR que aprecera en la terminal.
+Escanear de la forma previamente explicada con el celular el QR que aparecera en la terminal.
 
 ## Pantallas de la app en Iphone
 <p>
