@@ -67,3 +67,9 @@ Escanear de la forma previamente explicada con tu celular el QR que aprecera en 
 
 <img height="auto" width="230" src="https://user-images.githubusercontent.com/12037109/213883602-1f073d5a-6562-4f3f-a4a9-9ed6584a9849.jpg" alt="bit.dev" title="Detalle" loading="lazy" />
 </p>
+
+
+## Video en Iphone
+
+https://user-images.githubusercontent.com/12037109/213883982-379b87d6-eb9c-401c-8df9-677e9601d0b3.mp4
+
