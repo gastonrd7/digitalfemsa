@@ -48,24 +48,24 @@ Escanear de la forma previamente explicada con el celular el QR que aparecera en
 
 ## Pantallas de la app en Iphone
 <p>
-<img height="auto" width="230" src="https://user-images.githubusercontent.com/12037109/213882848-edbbc206-0ea5-416e-b53b-80c5ebeee21a.jpeg" alt="bit.dev" title="Home" loading="lazy" />
+<img height="auto" width="220" src="https://user-images.githubusercontent.com/12037109/213882848-edbbc206-0ea5-416e-b53b-80c5ebeee21a.jpeg" alt="bit.dev" title="Home" loading="lazy" />
 
-<img height="auto" width="230" src="https://user-images.githubusercontent.com/12037109/213882859-750dae17-3581-41bc-9a71-b59fcd83137b.jpeg" alt="bit.dev" title="Ganados" loading="lazy" />
+<img height="auto" width="220" src="https://user-images.githubusercontent.com/12037109/213882859-750dae17-3581-41bc-9a71-b59fcd83137b.jpeg" alt="bit.dev" title="Ganados" loading="lazy" />
 
-<img height="auto" width="230" src="https://user-images.githubusercontent.com/12037109/213883251-f8d6afa3-97b1-4924-b0ca-f1cb3549fc0d.jpeg" alt="bit.dev" title="Canjeados" loading="lazy" />
+<img height="auto" width="220" src="https://user-images.githubusercontent.com/12037109/213883251-f8d6afa3-97b1-4924-b0ca-f1cb3549fc0d.jpeg" alt="bit.dev" title="Canjeados" loading="lazy" />
 
-<img height="auto" width="230" src="https://user-images.githubusercontent.com/12037109/213883261-a2fde167-91cb-4dc5-9b5c-7b48212a3517.jpeg" alt="bit.dev" title="Detalle" loading="lazy" />
+<img height="auto" width="220" src="https://user-images.githubusercontent.com/12037109/213883261-a2fde167-91cb-4dc5-9b5c-7b48212a3517.jpeg" alt="bit.dev" title="Detalle" loading="lazy" />
 </p>
 
 ## Pantallas de la app en Android
 <p>
-<img height="auto" width="230" src="https://user-images.githubusercontent.com/12037109/213883565-021548be-9e1d-4b3e-8da2-4294abb24f6b.jpg" alt="bit.dev" title="Home" loading="lazy" />
+<img height="auto" width="220" src="https://user-images.githubusercontent.com/12037109/213883565-021548be-9e1d-4b3e-8da2-4294abb24f6b.jpg" alt="bit.dev" title="Home" loading="lazy" />
 
-<img height="auto" width="230" src="https://user-images.githubusercontent.com/12037109/213883577-55c09473-6f3e-46ca-8ec7-cf07d3c9706b.jpg" alt="bit.dev" title="Ganados" loading="lazy" />
+<img height="auto" width="220" src="https://user-images.githubusercontent.com/12037109/213883577-55c09473-6f3e-46ca-8ec7-cf07d3c9706b.jpg" alt="bit.dev" title="Ganados" loading="lazy" />
 
-<img height="auto" width="230" src="https://user-images.githubusercontent.com/12037109/213883591-f7ed3b11-951a-4f10-a467-f6118d32009e.jpg" alt="bit.dev" title="Canjeados" loading="lazy" />
+<img height="auto" width="220" src="https://user-images.githubusercontent.com/12037109/213883591-f7ed3b11-951a-4f10-a467-f6118d32009e.jpg" alt="bit.dev" title="Canjeados" loading="lazy" />
 
-<img height="auto" width="230" src="https://user-images.githubusercontent.com/12037109/213883602-1f073d5a-6562-4f3f-a4a9-9ed6584a9849.jpg" alt="bit.dev" title="Detalle" loading="lazy" />
+<img height="auto" width="220" src="https://user-images.githubusercontent.com/12037109/213883602-1f073d5a-6562-4f3f-a4a9-9ed6584a9849.jpg" alt="bit.dev" title="Detalle" loading="lazy" />
 </p>
 
 
