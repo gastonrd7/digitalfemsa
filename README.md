@@ -69,7 +69,7 @@ Escanear de la forma previamente explicada con el celular el QR que aparecera en
 </p>
 
 
-## Video en Iphone
+## Demo
 
 https://user-images.githubusercontent.com/12037109/213883982-379b87d6-eb9c-401c-8df9-677e9601d0b3.mp4
 
