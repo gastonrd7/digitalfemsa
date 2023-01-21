@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Provider } from 'react-redux';
-import generateStore from './src/store';
+import generateStore from './src/state/store';
 import Home from './src/components/home';
 import ProductDetail from './src/components/productDetail';
 import { NavigationContainer } from '@react-navigation/native';

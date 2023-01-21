@@ -1,6 +1,6 @@
 import { RootActions } from '../combineActions';
 import { AxiosError } from 'axios';
-import { IProduct, IListProduct } from '../interfaces/product';
+import { IProduct } from '../../interfaces/product';
 
 export type State = {
   isFetching: boolean;

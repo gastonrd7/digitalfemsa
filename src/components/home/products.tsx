@@ -3,7 +3,7 @@ import { View, ScrollView, Image, Text, TouchableOpacity } from 'react-native';
 import { ListItem } from '@rneui/themed';
 import { formatDate, formatNumber } from '../../utils';
 import { IProduct } from '../../interfaces/product';
-import { State } from '../../reducers/products';
+import { State } from '../../state/reducers/products';
 
 const Products = ({ products, navigation, styles }: {products: State, navigation: any, styles: any} ) => {
   

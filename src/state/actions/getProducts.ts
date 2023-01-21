@@ -1,7 +1,7 @@
 import axios, { AxiosError } from 'axios';
 import { Dispatch } from 'react';
 import { AnyAction } from 'redux';
-import { IProduct } from '../interfaces/product';
+import { IProduct } from '../../interfaces/product';
 
 const fetchProductsRequest = () =>
   ({

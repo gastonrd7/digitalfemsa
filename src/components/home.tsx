@@ -1,8 +1,8 @@
 import React, { useEffect } from 'react';
 import { View, StyleSheet, Text, TouchableOpacity } from 'react-native';
 import {useDispatch} from 'react-redux';
-import {useSelector} from '../store';
-import { getProducts, setFilter, cleanFilter } from '../actions/getProducts';
+import {useSelector} from '../state/store';
+import { getProducts, setFilter, cleanFilter } from '../state/actions/getProducts';
 import { Card } from '@rneui/themed';
 import { formatNumber } from '../utils';
 import Products from './home/products';
