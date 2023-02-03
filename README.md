@@ -1,4 +1,17 @@
-# Challenge to Digital-Femsa
+# App con React Native, corriendo con expo cli.
+
+## Tecnologia utilizada
+- React-native Expo
+- TypeScript
+- Patrón flux (react-redux): para manejo de estado global
+- Jest (test)
+- React-navigation
+- Axios: para las llamadas http y el manejo de la comunicación asincrónica con la Api
+- Font: para poder cargar fuentes no nativas.
+
+## Demo
+
+https://user-images.githubusercontent.com/12037109/213883982-379b87d6-eb9c-401c-8df9-677e9601d0b3.mp4
 
 ## Pre-requisitos para la maquina donde se correra la app react-native
 
@@ -69,7 +82,4 @@ Escanear de la forma previamente explicada con el celular el QR que aparecera en
 </p>
 
 
-## Demo
-
-https://user-images.githubusercontent.com/12037109/213883982-379b87d6-eb9c-401c-8df9-677e9601d0b3.mp4
 
